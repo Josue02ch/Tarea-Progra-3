@@ -1,0 +1,2 @@
+C:\Users\Josue Chaves\Desktop\Ing Informatico\IIII Cuatri\Progra III\Registro estudiantes\Registro estudiantes\obj\Debug\Registro estudiantes.csproj.AssemblyReference.cache
+C:\Users\Josue Chaves\Desktop\Ing Informatico\IIII Cuatri\Progra III\Registro estudiantes\Registro estudiantes\obj\Debug\Registro estudiantes.csproj.CoreCompileInputs.cache
